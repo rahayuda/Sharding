@@ -1,2 +1,2 @@
 # Sharding
-# Sinkronisasi Data dan Horizontal Sharding dalam Database Terdistribusi Multi-Platform
+# Sinkronisasi Data dan Horizontal Sharding pada Database Terdistribusi Multi-Platform
